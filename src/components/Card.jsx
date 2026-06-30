@@ -47,8 +47,7 @@ function Card() {
               (aminnnnn, PLZ GOD)
             </p>
             <p>
-              Tetap jadi diri ko yang baik dan ceria yowww, cheers untuk pertemanan kita yang langgeng ini!
-              Sekali lagi, selamat ulang tahun bestt!!
+              Tetap jadi diri ko yang baik dan ceria yowww. Sekali lagi, selamat ulang tahun bestt!!
             </p>
             <p className="signed">Kristina Anggelia</p>
           </div>
